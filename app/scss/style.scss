@@ -39,16 +39,8 @@ body {
     margin: -50px auto;
 }
 
-.bonus {
-    position: relative;
-    z-index: 3;
-    display: flex;
-    align-items: center;
-    margin-bottom: 85px;
-}
-
-.bonus_container {
-    margin: 0 auto;
+.welcom_bonus_img {
+    margin-left: 20px;
 }
 
 .lottie-animation_container {
@@ -68,11 +60,6 @@ body {
     top: 0;
     width: 1440px;
     height: 1070px;
-}
-
-.bonus_img {
-    min-width: 100%;
-    width: 580px;
 }
 
 .btn {
