@@ -1,0 +1,123 @@
+@media (min-width: 2550px) {
+    .logo_container {
+        margin-bottom: 100px;
+    }
+    .welcom_bonus {
+        margin-bottom: 250px;
+    }
+    #lottie-animation,
+    #lottie-animation_red {
+        width: 1800px;
+        height: 1500px;
+        top: 25px;
+    }
+    .welcom_bonus_img {
+        width: 900px;
+    }
+}
+
+@media (min-width: 1025px) {
+    .welcom_bonus_img {
+        margin-left: -20px;
+    }
+    .footer {
+        margin-top: 40px;
+    }
+}
+
+@media(max-width: 950px) {
+    .welcom_bonus_img {
+        width: 500px;
+        -webkit-transition: all 0.5s ease;
+        transition: all 0.5s ease;
+        margin-top: 130px;
+        margin-left: -10px;
+    }
+    .button a {
+        transition: all 0.5s ease;
+        width: 200px;
+        height: 60px;
+        padding: 15px;
+        font-size: 25px;
+    }
+    #lottie-animation_red {
+        width: 1000px;
+    }
+    #lottie-animation {
+        width: 1000px;
+        transition: all 0.5s ease;
+    }
+    .footer__icons,
+    .footer_copyright {
+        transition: all 0.5s ease;
+        width: 500px;
+        margin: 0 auto;
+    }
+    .footer {
+        margin-top: 40px;
+    }
+}
+
+@media(max-width: 525px) {
+    .welcom_bonus {
+        margin-bottom: 150px;
+    }
+    .welcom_bonus_img {
+        width: 400px;
+    }
+    #lottie-animation_red {
+        top: -70px;
+        width: 800px;
+    }
+    #lottie-animation {
+        top: -70px;
+        width: 800px;
+    }
+    .footer__icons,
+    .footer_copyright {
+        width: 330px;
+        font-size: 9px;
+    }
+    .logo img {
+        transition: all 0.5s ease;
+        width: 200px;
+    }
+}
+
+@media(max-width: 475px) {
+    .welcom_bonus {
+        margin-bottom: 110px;
+    }
+    .welcom_bonus_img {
+        width: 300px;
+        margin-top: 15px;
+    }
+    .bonus {
+        margin-bottom: 50px;
+    }
+    .bonus_img {
+        width: 280px;
+    }
+    #lottie-animation_red {
+        width: 600px;
+        top: -227px;
+    }
+    #lottie-animation {
+        width: 600px;
+        top: -227px;
+    }
+    .button a {
+        transition: all 0.5s ease;
+        width: 150px;
+        height: 50px;
+        font-size: 18px;
+    }
+    .footer__icons-item img {
+        width: 100px;
+    }
+    .footer__icons,
+    .footer_copyright {
+        width: 300px;
+        font-size: 9px;
+    }
+}
